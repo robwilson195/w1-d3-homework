@@ -1,5 +1,9 @@
 stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
 
+# Un-comment the code after each question if you'd like to check :D
+# Apparently the idea was for each sub-task to add to the last, but
+# I decided not to go back, and to try the other exercises instead.
+
 # 1. Add `"Edinburgh Waverley"` to the end of the array
 # stops << "Edinburgh Waverly"
 # p stops
@@ -36,6 +40,6 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 # p stops.reverse
 
 # 10. Print out all the stops using a for loop
-for stop in stops
-  p stop
-end
+# for stop in stops
+#   p stop
+# end
